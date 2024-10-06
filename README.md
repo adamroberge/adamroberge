@@ -1,16 +1,59 @@
-## Hi there 👋
+<!-- ![Banner](https://your-banner-image-url.com/banner.png) -->
 
-<!--
-**adamroberge/adamroberge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi there, I'm Adam Roberge
 
-Here are some ideas to get you started:
+<!-- ![Profile](https://your-profile-picture-url.com/profile.jpg) -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 About Me
+
+I'm **Adam Roberge**, a Computer Engineering student at the **University of Toronto** with a minor in **Artificial Intelligence**. Expected to graduate in **May 2027**, I am passionate about advancing the field of **computer vision**, specifically in the areas of **autonomous vehicles** and **robotics**.
+
+For as long as I can remember, I’ve been fascinated by technology and aim to continuously learn and develop new skills. My interests include **deep learning**, **Vision Transformers**, and **real-world applications of AI**.
+
+## 🛠️ Skills & Technologies
+
+### 🖥️ Programming Languages
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=assembly&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### 🧰 Frameworks & Libraries
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-315BA1?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+## 📊 GitHub Stats
+
+![Adam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adamroberge&show_icons=true&theme=radical)
+
+## 📫 Get in Touch
+
+I am always excited to meet new people and learn from them. You can reach out to me through:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adam-roberge/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=email&logoColor=white)](mailto:adam.roberge@mail.utoronto.ca)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@adam.roberge)
+
+---
+
+## ⭐ Pinned Projects
+
+### 🚀 [DynamicTokenLoc ViT](https://github.com/adamroberge/DynamicTokenLocViT)
+**DynamicTokenLoc ViT** enables flexible token allocation in Vision Transformers and allows visualizing attention maps at any layer.
+
+### 🗺️ [Ultimate EV Mapper](https://github.com/adamroberge/UltimateEVMapper)
+**Ultimate EV Mapper** is a GIS project using **C++** and **Algorithms** to find the optimal path and integrate real-time data such as weather, wind speed, wind direction, and the nearest EV charging stations.
+
+---
+
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=adamroberge.adamroberge)
