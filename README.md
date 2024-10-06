@@ -65,6 +65,9 @@ I am always excited to meet new people and learn from them. You can reach out to
 ### 🚀 [DynamicTokenLoc ViT](https://github.com/adamroberge/DynamicTokenLocViT)
 **DynamicTokenLoc ViT** enables flexible token allocation in Vision Transformers and allows visualizing attention maps at any layer.
 
+### 🩻 [Efficient MultiLevelUNet](https://github.com/chriskrunchy/APS360-Project)
+**Efficient MultiLevelUNet** is a specialized U-Net architecture incorporating multi-level global pooling for enhanced feature extraction and classification, developed using the NIH Chest X-Ray dataset. 
+
 ### 🗺️ [Ultimate EV Mapper](https://github.com/adamroberge/UltimateEVMapper)
 **Ultimate EV Mapper** is a GIS project using **C++** and **Algorithms** to find the optimal path and integrate real-time data such as weather, wind speed, wind direction, and the nearest EV charging stations.
 
