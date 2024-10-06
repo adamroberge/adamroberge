@@ -50,15 +50,6 @@ Stay updated with the latest insights and developments in **2D vision for autono
 
 ---
 
-## 📫 Get in Touch
-
-I am always excited to meet new people and learn from them. You can reach out to me through:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adam-roberge/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=email&logoColor=white)](mailto:adam.roberge@mail.utoronto.ca)
-[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@adam.roberge)
-
----
 
 ## ⭐ Pinned Projects
 
@@ -70,6 +61,16 @@ I am always excited to meet new people and learn from them. You can reach out to
 
 ### 🗺️ [Ultimate EV Mapper](https://github.com/adamroberge/UltimateEVMapper)
 **Ultimate EV Mapper** is a GIS project using **C++** and **Algorithms** to find the optimal path and integrate real-time data such as weather, wind speed, wind direction, and the nearest EV charging stations.
+
+---
+
+## 📫 Get in Touch
+
+I am always excited to meet new people and learn from them. You can reach out to me through:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adam-roberge/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=email&logoColor=white)](mailto:adam.roberge@mail.utoronto.ca)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@adam.roberge)
 
 ---
 
