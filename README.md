@@ -10,6 +10,8 @@ I'm **Adam Roberge**, a Computer Engineering student at the **University of Toro
 
 For as long as I can remember, I’ve been fascinated by technology and aim to continuously learn and develop new skills. My interests include **deep learning**, **Vision Transformers**, and **real-world applications of AI**.
 
+---
+
 ## 🛠️ Skills & Technologies
 
 ### 🖥️ Programming Languages
@@ -21,6 +23,8 @@ For as long as I can remember, I’ve been fascinated by technology and aim to c
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 <!-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) -->
+
+---
 
 ### 🧰 Frameworks & Libraries
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
