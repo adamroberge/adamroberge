@@ -32,9 +32,9 @@ For as long as I can remember, I’ve been fascinated by technology and aim to c
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-315BA1?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-## 📊 GitHub Stats
+<!-- ## 📊 GitHub Stats
 
-![Adam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adamroberge&show_icons=true&theme=radical)
+![Adam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adamroberge&show_icons=true&theme=radical) -->
 
 ## 📫 Get in Touch
 
