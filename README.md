@@ -38,6 +38,14 @@ For as long as I can remember, I’ve been fascinated by technology and aim to c
 
 ![Adam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adamroberge&show_icons=true&theme=radical) -->
 
+---
+
+## 📝 Blog
+
+Stay updated with the latest insights and developments in **2D vision for autonomous vehicles** and other **computer vision** topics on my [Medium](https://medium.com/@your-medium-username) page. I regularly publish articles that delve into cutting-edge research, practical applications, and innovative solutions in the realm of computer vision and artificial intelligence.
+
+---
+
 ## 📫 Get in Touch
 
 I am always excited to meet new people and learn from them. You can reach out to me through:
