@@ -6,7 +6,7 @@
 
 ## 🎓 About Me
 
-I'm **Adam Roberge**, a Computer Engineering student at the **University of Toronto** with a minor in **Artificial Intelligence**. Expected to graduate in **May 2027**, I am passionate about advancing the field of **computer vision**, specifically in the areas of **2D Vision** and **autonomous vehicles**.
+I'm **Adam Roberge**, a Computer Engineering student at the **University of Toronto** with a minor in **Artificial Intelligence**. Expected to graduate in **May 2027**, I am passionate about advancing the field of **computer vision**, specifically in the areas of **Multimodal Architecture** and **Autonomous Vehicles**.
 
 For as long as I can remember, I’ve been fascinated by technology and aim to continuously learn and develop new skills. My interests include **deep learning**, **Vision Transformers**, and **real-world applications of AI**.
 
