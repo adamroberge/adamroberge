@@ -76,11 +76,15 @@ Stay updated with the latest insights and developments in **2D vision for autono
 
 ---
 
+## 📊 GitHub Stats
+
+![Adam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adamroberge&show_icons=true&theme=radical)
+
+---
+
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=adamroberge.adamroberge)
 
 
 
-<!-- ## 📊 GitHub Stats
 
-![Adam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adamroberge&show_icons=true&theme=radical) -->
 
