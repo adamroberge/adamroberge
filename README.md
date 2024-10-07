@@ -41,7 +41,7 @@ I'm passionate about **Computer Vision**, especially in **Autonomous Vehicles**,
 
 
 ### 🔍 Deep Learning Architectures
-![CNN](https://img.shields.io/badge/CNN-FF5733?style=for-the-badge&label=CNN&color=FF5733)
+![CNN](https://img.shields.io/CNN-FF5733?style=for-the-badge&label=CNN&color=FF5733)
 ![VGG](https://img.shields.io/badge/VGG-FF33FF?style=for-the-badge&label=VGG&color=FF33FF)
 ![GoogLeNet](https://img.shields.io/badge/GoogLeNet-33FFFF?style=for-the-badge&label=GoogLeNet&color=33FFFF)
 ![ResNet](https://img.shields.io/badge/ResNet-FF33A1?style=for-the-badge&label=ResNet&color=FF33A1)
