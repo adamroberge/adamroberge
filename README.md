@@ -42,7 +42,7 @@ I'm passionate about **Computer Vision**, especially in **Autonomous Vehicles**,
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![CVAT](https://img.shields.io/badge/CVAT-232F3E?style=for-the-badge&logo=cvat&logoColor=white)
-![Weights & Biases](https://img.shields.io/badge/Weights%20&%20Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=white)
+![Weights & Biases](https://img.shields.io/badge/WANDB-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=white)
 
 ---
 <!---
