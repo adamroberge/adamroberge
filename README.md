@@ -63,7 +63,7 @@ I'm passionate about **Computer Vision**, especially in **Autonomous Vehicles**,
 
 ## 📝 Blog
 
-Stay updated with the latest insights and developments in **2D vision for autonomous vehicles** and other **computer vision** topics on my [Medium](https://medium.com/@your-medium-username) page. I regularly publish articles that delve into cutting-edge research, practical applications, and innovative solutions in the realm of computer vision and artificial intelligence.
+Stay updated with the latest insights and developments in **2D vision for autonomous vehicles** and other **computer vision** topics on my [Medium](https://medium.com/@adam.roberge) page. I regularly publish articles that delve into cutting-edge research, practical applications, and innovative solutions in the realm of computer vision and artificial intelligence.
 
 ---
 
