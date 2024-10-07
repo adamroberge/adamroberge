@@ -69,7 +69,7 @@ Stay updated with the latest insights and developments in **2D vision for autono
 ---
 
 
-## ⭐ Pinned Projects
+## ⭐ Projects
 
 ### 🚀 [DynamicTokenLoc ViT](https://github.com/adamroberge/DynamicTokenLocViT)
 **DynamicTokenLoc ViT** enables flexible token allocation in Vision Transformers and allows visualizing attention maps at any layer.
