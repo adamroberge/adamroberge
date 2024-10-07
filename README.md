@@ -79,7 +79,7 @@ Stay updated with the latest insights and developments in **2D vision** for **au
 **Ultimate EV Mapper** is a GIS project using **C++** and **Algorithms** to find the optimal path and integrate real-time data such as weather, wind speed, wind direction, and the nearest EV charging stations.
 
 ### 🎮 [EscapeQuest](https://github.com/adamroberge/EscapeQuest)
-**EscapeQuest** is a two-player maze game developed in **C** and **Assembly** for the **Nios II processor** environment. Player 1 must reach a dynamically changing checkpoint before being caught by Player 2. The game features time-pressured gameplay, multiple maze designs, and victory screens, making it an exciting and strategic chase. It leverages the unique capabilities of FPGA environments to create a responsive gaming experience.
+**EscapeQuest** is a two-player maze game developed in **C** and **Assembly** for the **Nios II processor** environment, where Player 1 races to a dynamically changing checkpoint while Player 2 attempts to catch them, leveraging FPGA capabilities for a responsive experience. 
 
 ---
 
