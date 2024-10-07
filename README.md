@@ -42,8 +42,6 @@ I'm passionate about **Computer Vision**, especially in **Autonomous Vehicles**,
 
 ### 🔍 Deep Learning Architectures
 ![CNN](https://img.shields.io/badge/CNN-FF5733?style=for-the-badge&color=FF5733)
-![VGG](https://img.shields.io/badge/VGG-FF33FF?style=for-the-badge&color=FF33FF)
-![GoogLeNet](https://img.shields.io/badge/GoogLeNet-33FFFF?style=for-the-badge&color=33FFFF)
 ![ResNet](https://img.shields.io/badge/ResNet-FF33A1?style=for-the-badge&color=FF33A1)
 ![U-Net](https://img.shields.io/badge/U--Net-3357FF?style=for-the-badge&color=3357FF)
 ![YOLO](https://img.shields.io/badge/YOLO-33FF57?style=for-the-badge&color=33FF57)
@@ -53,10 +51,8 @@ I'm passionate about **Computer Vision**, especially in **Autonomous Vehicles**,
 ![CvT](https://img.shields.io/badge/CvT-33FF8C?style=for-the-badge&color=33FF8C)
 ![DETR](https://img.shields.io/badge/DETR-FFC733?style=for-the-badge&color=FFC733)
 ![SAM2](https://img.shields.io/badge/SAM2-FF9933?style=for-the-badge&color=FF9933)
-<!-- ![MAX-ViT](https://img.shields.io/badge/MAX--ViT-9933FF?style=for-the-badge&label=MAX--ViT&color=9933FF)
-![LeViT](https://img.shields.io/badge/LeViT-33FF99?style=for-the-badge&label=LeViT&color=33FF99)
-![PVT](https://img.shields.io/badge/PVT-FF3333?style=for-the-badge&label=PVT&color=FF3333) -->
-
+![GPT](https://img.shields.io/badge/GPT-FF5733?style=for-the-badge&label=GPT&color=FF5733)
+![LLAMA3.2](https://img.shields.io/badge/LLAMA3.2-33FF57?style=for-the-badge&label=LLAMA3.2&color=33FF57)
 
 
 <!-- ## 📊 GitHub Stats
