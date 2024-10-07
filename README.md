@@ -51,8 +51,8 @@ I'm passionate about **Computer Vision**, especially in **Autonomous Vehicles**,
 ![CvT](https://img.shields.io/badge/CvT-33FF8C?style=for-the-badge&color=33FF8C)
 ![DETR](https://img.shields.io/badge/DETR-FFC733?style=for-the-badge&color=FFC733)
 ![SAM2](https://img.shields.io/badge/SAM2-FF9933?style=for-the-badge&color=FF9933)
-![GPT](https://img.shields.io/badge/GPT-FF5733?style=for-the-badge&label=GPT&color=FF5733)
-![LLAMA3.2](https://img.shields.io/badge/LLAMA3.2-33FF57?style=for-the-badge&label=LLAMA3.2&color=33FF57)
+![GPT](https://img.shields.io/badge/GPT-FF5733?style=for-the-badge&color=FF5733)
+![LLAMA3.2](https://img.shields.io/badge/LLAMA3.2-33FF57?style=for-the-badge&color=33FF57)
 
 
 <!-- ## 📊 GitHub Stats
