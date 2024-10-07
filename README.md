@@ -89,7 +89,7 @@ I am always excited to meet new people and learn from them. You can reach out to
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adam-roberge/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=email&logoColor=white)](mailto:adam.roberge@mail.utoronto.ca)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@adam.roberge)
-
----
 -->
+---
+
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=adamroberge.adamroberge)
