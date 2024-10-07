@@ -43,7 +43,7 @@ I'm passionate about **Computer Vision**, especially in **Autonomous Vehicles**,
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 
 ---
-
+<!---
 ### 🔍 Deep Learning Architectures
 ![CNN](https://img.shields.io/badge/CNN-FF6347?style=for-the-badge&color=FF6347)
 ![ResNet](https://img.shields.io/badge/ResNet-8A2BE2?style=for-the-badge&color=8A2BE2)
@@ -59,6 +59,7 @@ I'm passionate about **Computer Vision**, especially in **Autonomous Vehicles**,
 ![GPT](https://img.shields.io/badge/GPT-FF6347?style=for-the-badge&color=FF6347)
 ![LLAMA3.2](https://img.shields.io/badge/LLAMA3.2-ADFF2F?style=for-the-badge&color=ADFF2F)
 
+--->
 ---
 
 ## 📝 Blog
