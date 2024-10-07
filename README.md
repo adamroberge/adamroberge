@@ -76,13 +76,13 @@ Stay updated with the latest insights and developments in **2D vision for autono
 **Ultimate EV Mapper** is a GIS project using **C++** and **Algorithms** to find the optimal path and integrate real-time data such as weather, wind speed, wind direction, and the nearest EV charging stations.
 
 ---
-
+<!--
 ## 📊 GitHub Stats
 
 ![Adam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adamroberge&show_icons=true&theme=radical)
 
 ---
-
+-->
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=adamroberge.adamroberge)
 
 
