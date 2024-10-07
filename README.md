@@ -15,10 +15,10 @@ I'm passionate about **Computer Vision**, especially in **Autonomous Vehicles**,
 ## 🛠️ Skills & Technologies
 
 ### 🖥️ Programming Languages
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![C](https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=matlab&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=assembly&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -34,31 +34,26 @@ I'm passionate about **Computer Vision**, especially in **Autonomous Vehicles**,
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-315BA1?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-F8BD00?style=for-the-badge&logo=huggingface&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFDA50?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-<!-- ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black) -->
 
+---
 
 ### 🔍 Deep Learning Architectures
-![CNN](https://img.shields.io/badge/CNN-FF5733?style=for-the-badge&color=FF5733)
-![ResNet](https://img.shields.io/badge/ResNet-FF33A1?style=for-the-badge&color=FF33A1)
-![U-Net](https://img.shields.io/badge/U--Net-3357FF?style=for-the-badge&color=3357FF)
-![YOLOv5](https://img.shields.io/badge/YOLOv5-33FF57?style=for-the-badge&color=33FF57)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-33FF57?style=for-the-badge&color=93B057)
-![EfficientNet](https://img.shields.io/badge/EfficientNet-33FFF6?style=for-the-badge&color=33FFF6)
-![ViT](https://img.shields.io/badge/ViT-FF8C33?style=for-the-badge&color=FF8C33)
-![Swin Transformers](https://img.shields.io/badge/Swin%20Transformers-8C33FF?style=for-the-badge&color=8C33FF)
-![CvT](https://img.shields.io/badge/CvT-33FF8C?style=for-the-badge&color=33FF8C)
-![DETR](https://img.shields.io/badge/DETR-FFC733?style=for-the-badge&color=FFC733)
-![SAM2](https://img.shields.io/badge/SAM2-FF9933?style=for-the-badge&color=FF9933)
-![GPT](https://img.shields.io/badge/GPT-FF5733?style=for-the-badge&color=FF5733)
-![LLAMA3.2](https://img.shields.io/badge/LLAMA3.2-33FF57?style=for-the-badge&color=33FF57)
-
-
-<!-- ## 📊 GitHub Stats
-
-![Adam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adamroberge&show_icons=true&theme=radical) -->
+![CNN](https://img.shields.io/badge/CNN-FF6347?style=for-the-badge&color=FF6347)
+![ResNet](https://img.shields.io/badge/ResNet-8A2BE2?style=for-the-badge&color=8A2BE2)
+![U-Net](https://img.shields.io/badge/U--Net-4682B4?style=for-the-badge&color=4682B4)
+![YOLOv5](https://img.shields.io/badge/YOLOv5-3CB371?style=for-the-badge&color=3CB371)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-8FBC8F?style=for-the-badge&color=8FBC8F)
+![EfficientNet](https://img.shields.io/badge/EfficientNet-40E0D0?style=for-the-badge&color=40E0D0)
+![ViT](https://img.shields.io/badge/ViT-FF8C00?style=for-the-badge&color=FF8C00)
+![Swin Transformers](https://img.shields.io/badge/Swin%20Transformers-8A2BE2?style=for-the-badge&color=8A2BE2)
+![CvT](https://img.shields.io/badge/CvT-32CD32?style=for-the-badge&color=32CD32)
+![DETR](https://img.shields.io/badge/DETR-FFD700?style=for-the-badge&color=FFD700)
+![SAM2](https://img.shields.io/badge/SAM2-FF4500?style=for-the-badge&color=FF4500)
+![GPT](https://img.shields.io/badge/GPT-FF6347?style=for-the-badge&color=FF6347)
+![LLAMA3.2](https://img.shields.io/badge/LLAMA3.2-ADFF2F?style=for-the-badge&color=ADFF2F)
 
 ---
 
@@ -67,7 +62,6 @@ I'm passionate about **Computer Vision**, especially in **Autonomous Vehicles**,
 Stay updated with the latest insights and developments in **2D vision for autonomous vehicles** and other **computer vision** topics on my [Medium](https://medium.com/@adam.roberge) page. I regularly publish articles that delve into cutting-edge research, practical applications, and innovative solutions in the realm of computer vision and artificial intelligence.
 
 ---
-
 
 ## ⭐ Projects
 
@@ -79,17 +73,14 @@ Stay updated with the latest insights and developments in **2D vision for autono
 
 ### 🗺️ [Ultimate EV Mapper](https://github.com/adamroberge/UltimateEVMapper)
 **Ultimate EV Mapper** is a GIS project using **C++** and **Algorithms** to find the optimal path and integrate real-time data such as weather, wind speed, wind direction, and the nearest EV charging stations.
-<!-- 
----
 
-## 📫 Get in Touch
-
-I am always excited to meet new people and learn from them. You can reach out to me through:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adam-roberge/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=email&logoColor=white)](mailto:adam.roberge@mail.utoronto.ca)
-[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@adam.roberge)
--->
 ---
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=adamroberge.adamroberge)
+
+
+
+<!-- ## 📊 GitHub Stats
+
+![Adam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adamroberge&show_icons=true&theme=radical) -->
+
