@@ -59,8 +59,8 @@ I'm passionate about **Computer Vision**, especially in **Autonomous Vehicles**,
 ![GPT](https://img.shields.io/badge/GPT-FF6347?style=for-the-badge&color=FF6347)
 ![LLAMA3.2](https://img.shields.io/badge/LLAMA3.2-ADFF2F?style=for-the-badge&color=ADFF2F)
 
---->
 ---
+--->
 
 ## 📝 Blog
 
