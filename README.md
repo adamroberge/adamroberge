@@ -16,7 +16,7 @@ I'm passionate about **Computer Vision**, especially in **Autonomous Vehicles**,
 
 ### 🖥️ Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow)
-![C++](https://img.shields.io/badge/C++%2B%2B-00599C?style=for-the-badge&logo=c++%2B%2B&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c++%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-BB2275?style=for-the-badge&logo=git&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=matlab&logoColor=white)
