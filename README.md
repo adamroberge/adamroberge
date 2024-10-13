@@ -72,7 +72,7 @@ Stay updated with the latest insights and developments in **2D vision** for **au
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adamroberge&layout=donut)](https://github.com/adamroberge/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adamroberge&layout=donut-vertical)](https://github.com/adamroberge/github-readme-stats)
 ## ⭐ Projects
 
 ### 🚀 [DynamicTokenLoc ViT](https://github.com/adamroberge/DynamicTokenLocViT)
