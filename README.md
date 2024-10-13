@@ -71,10 +71,15 @@ I'm passionate about **Computer Vision**, especially in **Autonomous Vehicles**,
 Stay updated with the latest insights and developments in **2D vision** for **autonomous vehicles** and other **computer vision** topics on my [Medium](https://medium.com/@adam.roberge) page. I regularly publish articles that delve into cutting-edge research, practical applications, and innovative solutions in the realm of computer vision and artificial intelligence.
 
 ---
+## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adamroberge&layout=compact)
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamroberge&layout=compact" alt="Top Langs" style="width: 45%;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=adamroberge&show_icons=true&theme=radical" alt="Adam's GitHub Stats" style="width: 45%;"/>
+</div>
 
 ---
+
 ## ⭐ Projects
 
 ### 🚀 [DynamicTokenLoc ViT](https://github.com/adamroberge/DynamicTokenLocViT)
