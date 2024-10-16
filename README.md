@@ -75,7 +75,7 @@ Stay updated with the latest insights and developments in **2D vision** for **au
 
 <div style="display: flex; justify-content: space-between;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamroberge&layout=compact" alt="Top Langs" style="width: 45%;"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=adamroberge&show_icons=true&theme=radical" alt="Adam's GitHub Stats" style="width: 45%;"/>
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=adamroberge&show_icons=true&theme=radical" alt="Adam's GitHub Stats" style="width: 45%;"/> -->
 </div>
 
 ---
